@@ -9,7 +9,8 @@ public class EvenOrOdd {
         int number = Integer.parseInt(scanner.nextLine());
         if (number % 2 == 0) {
             System.out.println("even");
-        } else {
+        }
+        else {
             System.out.println("odd");
         }
     }
