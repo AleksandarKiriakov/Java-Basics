@@ -1,3 +1,4 @@
+package Lectures.First;
 public class Nums_1_TO_10 {
     public static void main(String[] args) {
         System.out.println(1);

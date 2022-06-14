@@ -1,4 +1,4 @@
-package Lectures;
+package Lectures.Second;
 
 import java.util.Scanner;
 

@@ -1,19 +1,16 @@
-package Lectures;
+package Lectures.Second;
 
 
 import java.util.Scanner;
 
 public class BiggerNumber {
     public static void main(String[] args) {
-        Scanner scanner=new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int num1 = Integer.parseInt(scanner.nextLine());
-        int num2=Integer.parseInt(scanner.nextLine());
-        if (num1>num2)
-        {
+        int num2 = Integer.parseInt(scanner.nextLine());
+        if (num1 > num2) {
             System.out.println(num1);
-        }
-        else
-        {
+        } else {
             System.out.println(num2);
         }
     }

@@ -1,3 +1,4 @@
+package Lectures.First;
 import java.util.Scanner;
 
 public class RectangleArea {
