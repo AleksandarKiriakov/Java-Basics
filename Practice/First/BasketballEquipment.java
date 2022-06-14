@@ -10,7 +10,7 @@ public class BasketballEquipment {
         double dress=shoes*0.8;
         double ball=dress/4;
         double accessories=ball/5;
-        
+
         System.out.println(tax+shoes+dress+ball+accessories);
 
     }
